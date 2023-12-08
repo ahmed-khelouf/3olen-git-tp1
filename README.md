@@ -21,7 +21,11 @@ Apprentissage Git
 
 ## 📋️ Instructions du projet
 
-*Rien pour l'instant...*
+### Git - Configuration
+  
+bash
+# Définit le chemin vers les hooks versionnés.
+git config --local core.hooksPath bin/hooks
 
 ## 📝 Tâches
 
@@ -29,6 +33,8 @@ Apprentissage Git
 - [x] **README.md** : Initialisation du `README.md`.
 - [x] **.editorconfig** : Initialisation du `.editorconfig`.
 - [x] **Hooks** : N'autoriser qu'un commit par branche.
+- [x] Utilisation des scripts versionnés.
+- [ ] Automatiser la configuration.
 
 ## 🐕‍🦺 Retours d'expérience
 
