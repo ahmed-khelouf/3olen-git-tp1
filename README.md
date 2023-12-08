@@ -28,7 +28,7 @@ Apprentissage Git
 - [x] **.gitignore** : Initialisation du `.gitignore`.
 - [x] **README.md** : Initialisation du `README.md`.
 - [x] **.editorconfig** : Initialisation du `.editorconfig`.
-- [ ] **Hooks** : N'autoriser qu'un commit par branche.
+- [x] **Hooks** : N'autoriser qu'un commit par branche.
 
 ## 🐕‍🦺 Retours d'expérience
 
